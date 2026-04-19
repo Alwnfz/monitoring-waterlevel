@@ -21,9 +21,11 @@ Sistem monitoring ketinggian air menggunakan sensor JSN-SR04T dan komunikasi LoR
 ## 📡 Arsitektur
 Transmitter → LoRa → Receiver (ESP32 + Web + LCD)
 
-## 🌐 Akses Web
-SSID: WaterTank  
-Password: 12345678  
-IP: 192.168.4.1
 
 ## 📷 Wiring
+<img width="514" height="601" alt="image" src="https://github.com/user-attachments/assets/e0a2830f-2490-43cb-981c-9d838e581ded" />
+Wiring Arduino uno to Lora 915 mHz
+
+<img width="736" height="435" alt="WhatsApp Image 2026-04-19 at 22 23 07" src="https://github.com/user-attachments/assets/851eaa68-9bda-4595-b8c8-bc048296398a" />
+Wiring Arduino uno to JSN SR04T
+
